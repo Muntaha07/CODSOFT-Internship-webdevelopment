@@ -66,9 +66,9 @@ window.onscroll = () => {
       time.from(".logo , .navbar a", {
         y: -100,
     opacity: 0,
-    delay: 0.5,
+    delay: -1,
     duration: 0.9,
-    stagger: 0.3,
+    stagger: 0.1,
      
       })
 
